@@ -1,7 +1,7 @@
 # Lista-de-universidades-brasileiras-sql
 Listas de todas as universidades brasileiras 2015 
 #Criado por Samuel da Silva 
-
+<pre>
 (1, 'Acre', 'AC', 1),
 (2, 'Alagoas', 'AL', 1),
 (3, 'Amazonas', 'AM', 1),
@@ -2039,3 +2039,4 @@ INSERT INTO universidades (estado,cidade,univer) Values
     (27,'Porto Nacional','Universidade Federal do Tocantins (UFT)'),
     (27,'Porto Nacional','Faculdade São Marcos (FASAMAR)'),
     (27,'Porto Nacional','Faculdade ITPAC');
+    </pre>
